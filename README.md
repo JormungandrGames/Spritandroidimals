@@ -1,9 +1,7 @@
 # Spritandroidimals
 
 ### Developed by 
-Benjamin Kugler
-Jon Forster
-Kyle Pestka
+Benjamin Kugler, Jon Forster and Kyle Pestka
 
 ###### Description
 Spritandroidimals is a typical run and dodge android game.
