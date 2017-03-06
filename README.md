@@ -4,9 +4,13 @@
 Benjamin Kugler, Jon Forster and Kyle Pestka
 
 ###### Description
-Spritandroidimals is a typical run and dodge android game. It was created in the span of four days for a android and development class at pacific university.
+Spritandroidimals is a typical run and dodge android game. It was created in the span of four days for a winter course, android development class at pacific university.
 
+Class
 https://www.pacificu.edu/current-undergraduate/academics/course-catalog?search_api_views_fulltext=cs-260
+
+Professor
+http://zeus.cs.pacificu.edu/ryand/
 
 ###### Features
 1. Level creator
